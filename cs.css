@@ -1,0 +1,223 @@
+.navbar{
+    position:absolute;
+    width: 100%;
+    padding: 20px 0;
+    top: 0;
+    z-index: 100;
+    transition: .3s linear;
+    line-height: 0px;
+    padding-top: 0px;
+}
+.inner-width{
+    max-width: 1300px;
+    margin: auto;
+}
+.navbar .inner-width{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    padding-right: 500px;
+    padding-top: 20px;
+}
+.navbar-menu .link{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    padding-left: 30px;
+}
+button{
+  color: #fff;
+  background-color: rgb(32, 214, 153); 
+  border-radius: 5px; 
+  padding-right: 7px;
+  height: 40px;
+}
+#home{
+    height: 100vh;
+    background-image: url(slide-01.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-top: -15px;
+}
+#home .content h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    line-height: 500px;
+    display: block;
+}
+#home .content h1 span{
+    color:rgb(230, 92, 12);
+}
+#home .content img{
+    margin-left: -100px;
+}
+#home .content .x{
+    margin-left: 1350px;
+    margin-top: -31px;
+}
+#home .content p{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#home .content .a{
+    background-color: rgb(32, 214, 153);
+}
+#home .content .b{
+    background-color: rgb(230, 92, 12);
+}
+.card{
+    box-shadow: 0 5px 30px black;
+    width: 420px;
+    height: 180px;
+    border-radius: 10px;
+    padding-left: 0px;
+    transition: 0.7s ease;
+    margin: 10px;
+    background-color: #fff;
+}
+.card .icon{
+    color: rgb(17, 217, 97);
+    font-size: 53px;
+    padding-left: 25px;
+}
+.info{
+    text-align: center;
+    padding-top: 0px;
+}
+#pp{
+    margin-left:530px;
+    margin-top: -567px;
+}
+#ww{
+    margin-left:530px;
+}
+#aa{
+    margin-left:530px;
+}
+#big{
+    background-image: url(calculator-bg.jpg);
+    width: 100%;
+    height: 190px;
+    background-position: center;
+}
+#big .dow h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+#big .dow h2 .s{
+    color: rgb(17, 217, 97);
+}
+#big .dow h2 span{
+    color:rgb(230, 92, 12);
+}
+#big .jj .v{
+    background-color: rgb(32, 214, 153);
+}
+#big .jj .l{
+    background-color: rgb(230, 92, 12);
+}
+#big .dow .ff{
+    padding-left: 100px;
+    padding-top: 42px;
+}
+#big .jj{
+    padding-left: 690px;
+    margin-top: -55px;
+}
+.y{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.y h2{
+    text-align: center;
+}
+.k p{
+    box-shadow: 0 5px 10px black;
+    width: 137px;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 0px;
+    transition: 0.7s ease;
+    margin: 10px;
+    background-color: #fff;
+    padding-top: 11px;
+    margin-left: 40px;
+    text-align: center;
+}
+.y h4{
+    display: inline;
+    display: inline-block;
+}
+hr{
+    opacity: 0.5;
+    width: 455px;
+    padding-right: 205px;
+    margin-left: -1px;
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p p{
+    display: inline;
+    display: inline-block;
+}
+.par{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 760px;
+    margin-top: -405px;
+}
+.photo{
+    background-image: url(calculator-bg.jpg);
+    width: 100%;
+    height: 530px;
+    background-position: center;
+}
+.photo .form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gg{
+    box-shadow: 0 5px 10px black;
+    width: 874px;
+    height: 301px;
+    border-radius: 8px;
+    padding-left: 0px;
+    transition: 0.7s ease;
+    background-color: #fff;
+    margin-left: 95px;
+}
+.gg i{
+    background-color: rgb(17, 217, 97);
+    color: #fff;
+    font-size: 30px;
+    padding-left: 21px;
+    padding-top: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 47px;
+    height: 41px;
+    border-radius: 6px;
+}
+.ox{
+    margin-left: 118px;
+    margin-top: -213px;
+}
+.foot{
+    background-color: rgb(45, 36, 65);
+    height: 122px;
+    width: 100%;
+}
+.foot img{
+    padding-left: 42px;
+    padding-top: 32px;
+}
+.tfooter{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(40, 40, 66);
+    text-align: center;
+    color: white;
+    height: 90px;
+    width: 100%;
+    padding-top: 5px;
+}
